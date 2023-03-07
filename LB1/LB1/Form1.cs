@@ -66,7 +66,7 @@ namespace LB1
                 }
             }
             srI = sum / (b.Width * b.Height);
-            MessageBox.Show("середня яскравість" + srI + "min" + minI + "max" + maxI);
+            MessageBox.Show("Середня яскравість = " + srI + " min = " + minI + " max = " + maxI);
         }
     }
 }
